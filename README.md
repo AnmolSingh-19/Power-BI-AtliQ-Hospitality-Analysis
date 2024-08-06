@@ -13,9 +13,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ![Screenshot 2024-08-06 103701](https://github.com/user-attachments/assets/9c8b35da-ed5b-4d9c-9938-2931589da1ec)
 
-## Overall Analysis View
+## PowerBI Dashboard
 
-
+![Screenshot 2024-08-06 093749](https://github.com/user-attachments/assets/8bf99409-9780-4c37-af5b-b58a9258052a)
 
 ## Insights
 
