@@ -11,7 +11,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Data Model
 
-
+![Screenshot 2024-08-06 103701](https://github.com/user-attachments/assets/9c8b35da-ed5b-4d9c-9938-2931589da1ec)
 
 ## Overall Analysis View
 
