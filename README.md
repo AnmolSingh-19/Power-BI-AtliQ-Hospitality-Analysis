@@ -36,7 +36,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
   
 ## Business Requirement Understanding
 - **Client Needs Analysis**: Improved skills in understanding and translating business requirements into data analysis objectives.
-- **Targeted Analysis: Focused on specific parameters such as elite customer behavior, room type preferences, and platform partnerships to address key business concerns.
+- **Targeted Analysis**: Focused on specific parameters such as elite customer behavior, room type preferences, and platform partnerships to address key business concerns.
 
 ## Advanced Use of Power BI
 - **DAX Functions**: Gained proficiency in creating complex DAX measures to compute KPIs such as Total Bookings, Total Revenue, Average Rating, Occupancy %, and more.
